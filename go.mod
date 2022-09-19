@@ -2,6 +2,8 @@ module github.com/cosmos/relayer/v2
 
 go 1.18
 
+
+
 require (
 	github.com/avast/retry-go/v4 v4.1.0
 	github.com/cosmos/cosmos-sdk v0.46.0
